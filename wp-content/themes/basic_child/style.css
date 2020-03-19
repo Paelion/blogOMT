@@ -1,0 +1,28 @@
+/* POUR CREER UN THEME ENFANT WORDPRESS */
+
+/*
+
+Theme Name: Basic Child
+Author: remy
+Version: 1.0
+Description: Mon thème enfant de Bootstrap Basic Child
+Template: bootstrap-basic4
+*/
+
+.monfooter{
+
+	background: black;
+	color: white;
+	padding: 15px 0;
+}
+
+
+.img_parallax {
+
+	background-attachment: fixed !important;
+	background-position: center !important;
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+
+	
+}
